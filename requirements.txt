@@ -1,6 +1,6 @@
-uwsgi==2.0.19.1
-flask==2.0.1
+uwsgi
+flask
 youtube_dl
-requests==2.25.1
+requests
 gunicorn
 urllib3
